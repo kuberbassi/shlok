@@ -49,7 +49,7 @@ This project was an alchemical blend of creative vision, modern engineering, and
 3.  **The Experience (Frontend):** The world you see and touch is crafted with pure **HTML5, CSS3, and JavaScript**. We obsessed over every interaction to ensure the experience is fluid, responsive, and accessible on any device.
 
 4.  **Our Digital Sages (AI Workflow):** We didn't build this alone. We partnered with AI to accelerate our process:
-    * 🧠 **Google's Gemini:** Our generative partner. Gemini served as our co-developer for birthing complex logic, writing boilerplate for Flask routes and templates, and, most importantly, helping us beautifully articulate the deep, thematic content for our shlokas.
+    * 🧠 **Google's Gemini:** Our generative partner. Gemini served as our co-developer for birthing complex logic, writing boilerplate for Flask routes and templates.
     * 💡 **Perplexity AI:** Our debugging guru. When the code was a tangled mess, Perplexity was our guide, helping us find the thread, understand the "why" behind the bugs, and implement clean, effective fixes.
 
 ---
